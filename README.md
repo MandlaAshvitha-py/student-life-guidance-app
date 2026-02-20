@@ -73,3 +73,30 @@ education to employment by ensuring they never miss an opportunity.
 
 ## Author
 Mandla Ashvitha
+
+---
+## Minimum Viable Product (MVP)
+
+The MVP demonstrates the core concept of the application using a
+simplified implementation focused on **10th class students**.
+
+### Current MVP Capabilities
+- Assumes the student has completed 10th class
+- Asks the student what they are looking for (exams or scholarships)
+- Provides smart suggestions with clear explanations
+- Displays simulated alert messages for important dates
+- Includes a basic chatbot interface for doubt clarification
+
+### Purpose of the MVP
+- Validate the guidance flow and user experience
+- Demonstrate the alert and reminder concept
+- Provide a working prototype for recruiters and hackathon judges
+
+### Technical Stack (MVP)
+- Python
+- Streamlit
+- Local in-memory data structures
+- Simulated on-screen notifications
+
+> Note: External integrations such as WhatsApp alerts and a full AI-powered
+> chatbot are planned for future versions.
