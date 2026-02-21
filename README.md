@@ -100,3 +100,23 @@ simplified implementation focused on **10th class students**.
 
 > Note: External integrations such as WhatsApp alerts and a full AI-powered
 > chatbot are planned for future versions.
+
+## 🛠️ How to Run the MVP (Local)
+
+1. Clone the repository
+   git clone https://github.com/MandlaAshvitha-py/student-life-guidance-app.git
+
+2. Move into the project folder
+   cd student-life-guidance-app
+
+3. Create virtual environment
+   python -m venv venv
+
+4. Activate virtual environment
+   venv\Scripts\activate   (Windows)
+
+5. Install dependencies
+   pip install streamlit
+
+6. Run the app
+   streamlit run mvp/app.py
