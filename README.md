@@ -120,3 +120,7 @@ simplified implementation focused on **10th class students**.
 
 6. Run the app
    streamlit run mvp/app.py
+
+## 📸 MVP Preview
+
+![MVP Screenshot](mvp_screenshot.png)
